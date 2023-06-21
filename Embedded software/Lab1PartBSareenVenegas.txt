@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+//Krish Sareen and Jonathan Venegas
+
+int main()
+{
+    int y = 0;
+
+    for (int x = 0; x <= 20; ++x)
+    {
+        y += ((x*x) + x + 1);
+    }
+    printf("result is %d",y);
+    
+    return 0;
+}

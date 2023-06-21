@@ -1,0 +1,11 @@
+not(LEDR[0], SW[0]);
+not(LEDR[1], SW[1]);
+not(LEDR[2], SW[2]);
+not(LEDR[3], SW[3]);
+not(LEDR[4], SW[4]);
+not(LEDR[5], SW[5]);
+not(LEDR[6], SW[6]);
+not(LEDR[7], SW[7]);
+not(LEDR[8], SW[8]);
+not(LEDR[9], SW[9]);
+
